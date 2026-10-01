@@ -1,0 +1,9 @@
+{
+  "sites": {
+    "da-test2": {
+      "previewOrg": "rupeshaec",
+      "previewSite": "da-test2",
+      "contentHostUrl": "https://content.da.live/rupeshaec/da-test2/"
+    }
+  }
+}
